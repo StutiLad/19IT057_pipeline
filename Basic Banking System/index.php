@@ -23,9 +23,9 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12 site-title">
 			<!-- 	Newly Added Lines -->
-	<h4>This is Stuti </h4>
+	<h4 class="title-text">This is Stuti </h4>
 	<br>
-	<h4>19IT057</h4>
+	<h4 class="title-text">19IT057</h4>
 			
                     <h3 class="title-text">The Indian Bank</h3>
                     <h4 class="title-text">A basic banking sytem through which we can transfer money between multiple users.</h4>
