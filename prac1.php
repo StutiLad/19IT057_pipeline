@@ -26,6 +26,9 @@
     // creating class object
     $john = new Person("Stuti Lad", "19IT057");
     $john->showName();
+    
+    // added line
+    echo "This is Jenkins demo  by 19IT057 (STUTI LAD)";
 
     ?>
 </body>
