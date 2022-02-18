@@ -28,7 +28,8 @@
 	<h4 class="title-text">19IT057</h4>
 			
                     <h3 class="title-text">The Indian Bank</h3>
-                    <h4 class="title-text">A basic banking sytem through which we can transfer money between multiple users.</h4>
+                    <h4 class="title-text">A basic banking sytem through which we can transfer money between multiple users.
+			STUTIIIIIIIIIIIIIIIIIIIII</h4>
                 </div>
                 <div class="col-lg-6 col-md-12 banner-image">
                     <img src="./img/Bank_index.jpg" alt="banner-img" class="img-fluid">
